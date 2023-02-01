@@ -14,21 +14,22 @@ a voice assistant to communicate with the user.
 **Expected Outcomes:**
 **Smart Goggles **: This is a form of goggles, intended to be worn by the user whenever
 he/she is traveling outside. This would help the user by:
-● Recognizing faces known by the user by referencing an already existent set of
+1. Recognizing faces known by the user by referencing an already existent set of
 the facial database created by the user.
-● Detecting any obstacle present above the waist level of the user(upto 2m ahead
+
+2. Detecting any obstacle present above the waist level of the user(upto 2m ahead
 of the user) which is not usually detected by regular canes.
-Smart stick : Shaped like a regular cane, this would be carried by the user in place of a
+
+**Smart stick :** Shaped like a regular cane, this would be carried by the user in place of a
 normal blind man’s cane and would be used to:
-● Navigate through the streets using GPS.
-● Detect obstacles located below the waist. (upto 0.5m ahead of the user)
+1. Navigate through the streets using GPS.
+2. Detect obstacles located below the waist. (upto 0.5m ahead of the user)
 
 **Additional features:**
 ● A buzzer would be incorporated with the set that would be activated by the user
 voice. This would help the user in finding the gadgets in case of misplacing any
 of the article.
-ually impaired in their day-to-day activities. The proposed expected outcome for our smart
-goggles + smart stick combo is to produce sustainable products so that visually impaired folks
+The proposed expected outcome for our smart goggles + smart stick combo is to produce sustainable products so that visually impaired folks
 get access to an economical and comfortable object so as to measure their way of life well. In
 an exceedingly developing country like India, there's a desire for a value-effective resolution so
 most of the folks will have an effective product in hand. Thus via exploitation of such good
