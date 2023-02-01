@@ -12,7 +12,8 @@ aided set : Namely, ‘smart goggles’ and ‘smart stick’. Both of these pro
 a voice assistant to communicate with the user.
 
 **Expected Outcomes:**
-**Smart Goggles **: This is a form of goggles, intended to be worn by the user whenever
+
+Smart Goggles: This is a form of goggles, intended to be worn by the user whenever
 he/she is traveling outside. This would help the user by:
 1. Recognizing faces known by the user by referencing an already existent set of
 the facial database created by the user.
