@@ -1,6 +1,6 @@
 # Smart Glasses and Stick
 
-## There have been several technological advancements and attempts to create products that
+There have been several technological advancements and attempts to create products that
 would aid visually impaired people. All of these developments were initiated with the objective to
 create a society where visually challenged people can lead completely natural lives. We wanted
 to contribute to this idealistic goal by creating a gadget that can be used by blind people to
@@ -11,8 +11,8 @@ experience. To solve this, we decided to come up with a combination of two produ
 aided set : Namely, ‘smart goggles’ and ‘smart stick’. Both of these products would make use of
 a voice assistant to communicate with the user.
 
-Expected Outcomes:
-Smart Goggles : This is a form of goggles, intended to be worn by the user whenever
+**Expected Outcomes:**
+**Smart Goggles **: This is a form of goggles, intended to be worn by the user whenever
 he/she is traveling outside. This would help the user by:
 ● Recognizing faces known by the user by referencing an already existent set of
 the facial database created by the user.
@@ -22,7 +22,8 @@ Smart stick : Shaped like a regular cane, this would be carried by the user in p
 normal blind man’s cane and would be used to:
 ● Navigate through the streets using GPS.
 ● Detect obstacles located below the waist. (upto 0.5m ahead of the user)
-Additional features:
+
+**Additional features:**
 ● A buzzer would be incorporated with the set that would be activated by the user
 voice. This would help the user in finding the gadgets in case of misplacing any
 of the article.
