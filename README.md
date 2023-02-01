@@ -27,7 +27,7 @@ normal blind man’s cane and would be used to:
 2. Detect obstacles located below the waist. (upto 0.5m ahead of the user)
 
 **Additional features:**
-● A buzzer would be incorporated with the set that would be activated by the user
+A buzzer would be incorporated with the set that would be activated by the user
 voice. This would help the user in finding the gadgets in case of misplacing any
 of the article.
 The proposed expected outcome for our smart goggles + smart stick combo is to produce sustainable products so that visually impaired folks
